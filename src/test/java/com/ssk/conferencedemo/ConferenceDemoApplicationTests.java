@@ -8,6 +8,7 @@ class ConferenceDemoApplicationTests {
 
 	@Test
 	void contextLoads() {
+		assert(true);
 	}
 
 }
